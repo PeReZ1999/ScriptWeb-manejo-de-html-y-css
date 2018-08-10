@@ -1,0 +1,162 @@
+.fondo_r{
+
+  background-image: url(http://localhost/script_web/public/images/fondo_r.jpg);
+
+    background-size: 1720px;
+    width: 100%;
+    height: 1300px;
+}
+.container{
+  padding: 0px 20px 1px 20px;
+}
+.label{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  background-color: rgba(21, 67, 96, 0.7);
+  margin: 30px 480px 20px 480px;
+  padding: 0px 40px 0px 40px
+}
+.article_r{
+  margin:  40px 100px 5px 180px;
+  border: 4px solid#808B96;
+  background-color: rgba(23, 32, 42, 0.8);
+}
+
+.usu{
+
+  margin: 30px 0 0 100px;
+  color: #fff;
+  font-family: arial;
+  font-size: 24px;
+  font-weight: bold;
+}
+.usu1{
+
+  margin: 30px 0 0 100px;
+  color: #fff;
+  font-family: arial;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.celdas{
+  color: white;
+  width: 500px;
+  margin-left: 10px;
+  height: 20px;
+  margin-right:500px;
+  margin-bottom: 30px;
+  border-radius:  8px ;
+  display:inline-block;
+  background-color: rgb(0, 0, 0, 0.3);
+  padding-left: 7px;
+
+}
+.celdas_1{
+  color: white;
+  width: 500px;
+  margin-left: 10px;
+  height: 20px;
+  margin-right:410px;
+  margin-bottom: 30px;
+  border-radius:  8px ;
+  display:inline-block;
+  background-color: rgb(0, 0, 0, 0.3);
+  padding-left: 9px;
+}
+.celdas2{
+  color: white;
+  width: 300px;
+  margin-left: 10px;
+  height: 20px;
+  margin-right:400px;
+  margin-bottom: 30px;
+  border-radius:  8px ;
+  display:inline-block;
+  background-color: rgb(0, 0, 0, 0.3);
+  padding-left: 9px;
+}
+
+.desplegar{
+  width: 200px;
+  margin-left: 10px;
+  height: 24px;
+  border-radius:  14px ;
+  margin-right: 700px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+.desplegar_1{
+  width: 200px;
+  margin-left: 10px;
+  height: 24px;
+  border-radius:  14px ;
+  margin-right:780px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+.desplegar_1_1{
+  width: 200px;
+  margin-left: 10px;
+  height: 24px;
+  border-radius:  14px ;
+  margin-right: 700px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+.desplegar_2{
+  width: 200px;
+  margin-left: 10px;
+  height: 24px;
+  border-radius:  14px ;
+  margin-right: 700px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+
+/*---BOTONES------*/
+.button {
+    background-color: #00389A; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    padding-bottom: 20px;
+    margin-bottom: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.button_1 {
+    background-color: #2C3E50 ; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    padding-bottom: 20px;
+    margin-bottom: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button1:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #022A71;
+}
+
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #1B2631;
+}

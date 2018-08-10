@@ -1,0 +1,15 @@
+*{
+	box-sizing: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/*----------ESTOS SON LOS HOVER----------*/
+.li:hover{
+	display: block;
+	color: red;
+	font-size: 20px;
+	text-decoration: overline;
+}

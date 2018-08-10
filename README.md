@@ -1,2 +1,2 @@
-# ScriptWeb-manejo-de-html-y-css
-Archivos de html y csss (Contactanos, login, registro, admin.)
+# script_web-maquetacion_htmlycss-
+proyecto de el dominio de script web.    En este repositorio se encontrara todo los archivos css

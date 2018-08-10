@@ -1,0 +1,129 @@
+*{
+	box-sizing: 0;
+	margin: 0;
+	padding: 0;
+}
+.fondo{
+	background-color: rgb(48, 47, 47,0.9);
+	width: 100%;
+	height: 95px;
+}
+
+ul li{
+	display: inline-block;
+}
+/*---estilos de los </li> --*/
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+
+
+
+
+.li_1{
+	background-color: rgb(252, 109, 109); 
+	padding-top: 6px;
+	margin-left: 80px; 
+	margin-top: 15px;
+	text-align: center;
+	width: 11%;
+	height: 30px;
+	
+}
+
+.li_2{
+	background-color: rgb(166, 98, 242); 
+	padding-top: 6px;
+	margin-left: 10px;
+	margin-top: 15px; 
+	text-align: center;
+	width:10%;
+	height: 30px;
+	
+}
+
+.li_3{
+	background-color: rgb(55, 126, 250); 
+	padding-top: 6px;
+	margin-left: 10px;
+	margin-top: 15px; 
+	text-align: center;
+	width: 9%;
+	height: 30px;
+	
+}
+
+.li_4{
+	background-color: rgb(255, 191, 55) ;
+	padding-top: 6px;
+	margin-left: 10px;
+	margin-top: 15px; 
+	text-align: center;
+	width: 9%;
+	height: 30px;
+	
+}
+
+.li_5{
+	background-color: rgb(220, 102, 15); 
+	padding-top: 6px;
+	margin-left: 10px;
+	margin-top: 15px; 
+	text-align: center;
+	width: 8%;
+	height: 30px;
+}
+.li_5:hover{
+	background-color: rgb(255, 135, 0);
+	transition: 0.5s;
+}
+/*los </li> del lado derecho*/
+
+.li_6{
+	text-align: center;
+	display:inline-block; 
+	padding-top: 6px;
+	margin-top:6px ; 
+	margin-left: 270px;
+	width: 10%;
+	height: 30px;
+	color: #fff;
+}
+.li_7{
+	text-align: center;
+	display: inline-block;
+	padding-top: 6px;
+	margin-top: 6px;
+	margin-left:  10px;
+	width: 10%;
+	height: 30px;
+	color: #fff;
+}
+.li_7:hover {
+	text-decoration: underline;
+	width: 10%;
+	height: 30px;
+	background-color:rgb(0,0,0, 0.5); 
+}
+.li_6:hover {
+	width: 10%;
+	height: 30px;
+	background-color:rgb(0,0,0, 0.5);
+	text-decoration: underline;
+}
+ul a li{
+	text-decoration: none;
+}
+
+/*----BUSCADOR----*/
+
+.buscador{
+	background-color: rgb(25, 164, 255, 0.6);
+	margin-top: 20px;
+	margin-left:40%; 
+	border-color: white;
+	color: white;
+}
